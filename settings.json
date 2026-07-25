@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smoothsmp4u.mcsh.io",
-    "port": 25565,
+    "ip": "SMOOTH-HYPIXEL.aternos.me:58304",
+    "port": 58304,
     "version": "1.20.1",
     "try-creative": false
   },
